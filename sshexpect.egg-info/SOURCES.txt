@@ -1,0 +1,9 @@
+README.rst
+pyproject.toml
+setup.py
+sshexpect/__init__.py
+sshexpect/sshexpect.py
+sshexpect.egg-info/PKG-INFO
+sshexpect.egg-info/SOURCES.txt
+sshexpect.egg-info/dependency_links.txt
+sshexpect.egg-info/top_level.txt
