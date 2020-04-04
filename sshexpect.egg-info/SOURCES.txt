@@ -1,5 +1,4 @@
 README.rst
-pyproject.toml
 setup.py
 sshexpect/__init__.py
 sshexpect/sshexpect.py
